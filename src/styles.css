@@ -1,0 +1,132 @@
+* {
+    background-color: #23252C;
+    box-sizing: border-base;
+    margin: 0;
+}
+
+.info--pix {
+    padding-top: 97px;
+    padding-left: 181px;
+    width: 317px;
+    height: 317px;
+}
+
+.info--name {
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    padding-top: 21px;
+    padding-left: 173px;
+}
+
+.info--job {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-top: 21px;
+    padding-left: 205px;
+}
+
+.info--web {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 240px;
+    padding-top: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+main {
+    display: flex;
+}
+
+.info--button1 {
+    padding-left: 220px;
+    padding-top: 15px;
+    height: 34px;
+}
+
+.info--button2 {
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 34px;
+}
+
+a:hover {
+    color: red;
+}
+
+.about--title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color:#FFFFFF;
+    padding-left: 181px;
+    padding-top: 33px;
+}
+
+.about--content {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-left: 181px;
+    padding-top: 5px;
+    max-width: 350px;
+}
+  
+.interest--title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color:#FFFFFF;
+    padding-left: 181px;
+    padding-top: 33px;
+}
+
+.interest--content {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-left: 181px;
+    padding-top: 5px;
+    max-width: 350px;
+}
+
+.footer--icons {
+    display: flex;
+    padding-top: 60px;
+}
+
+.twitter--icon {
+    height: 25px;
+    padding-left: 230px;
+}
+
+.facebook--icon {
+    height: 25px;
+    padding-left: 24px;
+}
+
+.instagram--icon {
+    height: 25px;
+    padding-left: 24px;
+}
+
+.github--icon {
+    height: 25px;
+    padding-left: 24px;
+}
